@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Campus Companion</string>
+    <string name="hint_user_name">Enter your name</string>
+    <string name="btn_go_to_tasks">View Tasks</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="label_title">Title</string>
+    <string name="label_description">Description</string>
+    <string name="label_priority">Priority</string>
+    <string name="btn_mark_complete">Mark Complete</string>
+    <string name="confirm_title">Confirm</string>
+    <string name="confirm_message">Mark this task as complete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="task_completed">Task marked as complete!</string>
+    <string name="error_missing_data">Task data not available</string>
+</resources>
